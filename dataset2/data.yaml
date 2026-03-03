@@ -1,0 +1,7 @@
+path: c:\Users\Yogender Badgujjar\Desktop\dd_yolo_model\bags_yolo_format1
+train: images/train
+val: images/train
+
+names:
+  0: Bag
+  1: Bag
