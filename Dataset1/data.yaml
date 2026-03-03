@@ -1,0 +1,7 @@
+path: /content/dataset_yolo11dd
+train: images/train
+val: images/train
+
+names:
+  0: bags
+  1: bags
